@@ -30,3 +30,13 @@ for card in job_cards:
 
 for job in jobs[:5]:
     print(job)
+
+import pandas as pd 
+
+df = pd.DataFrame(jobs)
+
+print(df.head())
+
+df.to_csv("projects/web_scraping_analysis/data/jobs.csv", index=False)
+
+print("Data saved to jobs.csv")
