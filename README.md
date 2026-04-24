@@ -4,11 +4,13 @@ Professional portfolio of data science projects using Python, SQL, Machine Learn
 
 ## Projects
 
-1. Customer Churn Prediction
-2. Sales Forecasting
-3. Credit Risk Modeling
-4. Web Scraping & Market Analysis
-5. NLP Sentiment Analysis
+## Projects
+
+1. Customer Churn Prediction (Machine Learning)
+2. Sales SQL Analysis (SQL + Business Insights)
+3. E-commerce KPI Dashboard (Data Analysis)
+4. Web Scraping & Market Analysis (Data Collection)
+5. NLP Sentiment Analysis (Text Classification)
 
 ## Tools
 
